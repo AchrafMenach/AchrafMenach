@@ -1,109 +1,109 @@
-# 👋 Salut, je suis Achraf Menach
+# 👋 Hi, I'm Achraf Menach
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Étudiant+Ingénieur+en+IA;Robotique+%26+Objets+Connectés;Python+%7C+FastAPI+%7C+React+Developer;Passionné+de+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineering+Student;Robotics+%26+Connected+Objects;Python+%7C+FastAPI+%7C+React+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AchrafMenach&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🎓 À Propos de Moi
+## 🎓 About Me
 
-Je suis **étudiant ingénieur en troisième année** à l'**École Nationale d'Intelligence Artificielle & Digital (ENIAD)** de Berkane, spécialisé en **Robotique & Objets Connectés**. Actuellement à la recherche d'un **stage de fin d'études (PFE)** en Intelligence Artificielle à partir de janvier 2025.
+I'm a **third-year engineering student** at the **National School of Artificial Intelligence & Digital (ENIAD)** in Berkane, specializing in **Robotics & Connected Objects**. Currently seeking a **final-year internship (PFE)** in Artificial Intelligence starting from January 2025.
 
-- 🌱 J'approfondis actuellement mes connaissances en **IA, Machine Learning et NLP**
-- 🔭 Je travaille sur des projets IA innovants combinant **RAG, LLM et IA générative**
-- 💡 Passionné par la création de systèmes intelligents et d'outils éducatifs
-- 🎯 Objectif : Contribuer à l'avancement de la technologie IA grâce à des solutions innovantes
-- 📧 Contact : **menachachraf3@gmail.com**
-- 📱 Téléphone : **+212 6 99 21 31 18**
+- 🌱 I'm currently deepening my knowledge in **AI, Machine Learning, and NLP**
+- 🔭 Working on innovative AI projects combining **RAG, LLM, and generative AI**
+- 💡 Passionate about creating intelligent systems and educational tools
+- 🎯 Goal: Contributing to the advancement of AI technology through innovative solutions
+- 📧 Contact: **menachachraf3@gmail.com**
+- 📱 Phone: **+212 6 99 21 31 18**
 
 <div align="center">
   
-## 📋 Consultez Mon CV & Portfolio
+## 📋 Check My CV & Portfolio
 
-[![CV](https://img.shields.io/badge/📄_CV-Télécharger-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AchrafMenach/CV/blob/main/ENAchrafMenach.pdf)
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Découvrir-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://achrafmenach.github.io/portfolio)
-[![GitHub](https://img.shields.io/badge/📂_Projets-Explorer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AchrafMenach?tab=repositories)
+[![CV](https://img.shields.io/badge/📄_CV-Download-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AchrafMenach/CV/blob/main/ENAchrafMenach.pdf)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Discover-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://achrafmenach.github.io/portfolio)
+[![GitHub](https://img.shields.io/badge/📂_Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AchrafMenach?tab=repositories)
 
 </div>
 
 ---
 
-## 💼 Projets Phares
+## 💼 Featured Projects
 
 <div align="center">
 
-### 🎓 Assistant de Préparation d'Examens IA
+### 🎓 AI Exam Preparation Assistant
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 
-Application web complète construite avec **React + FastAPI** comprenant :
-- 📄 **Résumé automatique de PDF**
-- ❓ **QCM interactifs via RAG + LLM (Gemini)**
-- 🔍 **Moteur de recherche éducatif intelligent**
+A comprehensive web application built with **React + FastAPI** featuring:
+- 📄 **Automatic PDF summarization**
+- ❓ **Interactive MCQs via RAG + LLM (Gemini)**
+- 🔍 **Intelligent educational search engine**
 
 ---
 
-### 🏎️ Kart de Course IA – Simulation Unity
+### 🏎️ AI Racing Kart – Unity Simulation
 [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)]()
 [![ML-Agents](https://img.shields.io/badge/ML--Agents-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
 
-Projet avancé d'apprentissage par renforcement :
-- 🎮 **Simulation de course Unity**
-- 🤖 **Agent IA utilisant des observations (vitesse, distance, angle)**
-- 🏆 **Entraîné avec PPO via ML-Agents**
+Advanced reinforcement learning project:
+- 🎮 **Unity-based racing simulation**
+- 🤖 **AI agent using observations (speed, distance, angle)**
+- 🏆 **Trained with PPO via ML-Agents**
 
 ---
 
-### 📚 Tuteur de Maths – Système de Tutorat Intelligent
+### 📚 Math Tutor – Intelligent Tutoring System
 [![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logo=ai&logoColor=white)]()
 [![NLP](https://img.shields.io/badge/NLP-25D366?style=flat&logo=nlp&logoColor=white)]()
 [![Full Stack](https://img.shields.io/badge/Full_Stack-4285F4?style=flat&logo=google&logoColor=white)]()
 
-Application éducative complète :
-- 🧮 **Génération et évaluation d'exercices via CrewAI + NLP**
-- 👨‍🏫 **Système de coaching personnalisé**
-- 📊 **Suivi des progrès des étudiants**
+Full-stack educational application:
+- 🧮 **Exercise generation and evaluation using CrewAI + NLP**
+- 👨‍🏫 **Personalized coaching system**
+- 📊 **Student progress tracking**
 
 </div>
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Langages de Programmation
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🌐 Développement Web & Mobile
+### 🌐 Web & Mobile Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🤖 IA & Machine Learning
+### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🗄️ Bases de Données
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### ⚙️ DevOps & Outils
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -116,29 +116,29 @@ Application éducative complète :
 
 <div align="center">
   
-- 🚗 **Machine Learning & Voitures Autonomes**
-- 🤖 **IA avec Mistral, LangChain & Ollama**  
-- 📊 **Le Processus de Machine Learning**
+- 🚗 **Machine Learning & Self-Driving Cars**
+- 🤖 **AI with Mistral, LangChain & Ollama**  
+- 📊 **The Machine Learning Process**
 
 </div>
 
 ---
 
-## 🌐 Langues
+## 🌐 Languages
 
 <div align="center">
 
-| Langue | Niveau |
-|--------|---------|
-| 🇦🇷 **Arabe** | Natif |
-| 🇫🇷 **Français** | Courant |
-| 🇬🇧 **Anglais** | Courant |
+| Language | Level |
+|----------|--------|
+| 🇦🇷 **Arabic** | Native |
+| 🇫🇷 **French** | Fluent |
+| 🇬🇧 **English** | Fluent |
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -152,7 +152,7 @@ Application éducative complète :
 
 ---
 
-## 🌟 Activité GitHub
+## 🌟 GitHub Activity
 
 <div align="center">
   
@@ -162,14 +162,14 @@ Application éducative complète :
 
 ---
 
-## 📱 Me Contacter
+## 📱 Connect with Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-menachachraf3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menachachraf3@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-AchrafMenach-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AchrafMenach)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Achraf_Menach-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafmenach)
-[![Phone](https://img.shields.io/badge/📞_Téléphone-+212_6_99_21_31_18-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212699213118)
+[![Phone](https://img.shields.io/badge/📞_Phone-+212_6_99_21_31_18-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212699213118)
 
 </div>
 
@@ -177,7 +177,7 @@ Application éducative complète :
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=AchrafMenach&color=blueviolet&style=for-the-badge&label=Vues+du+Profil)
+![Profile Views](https://komarev.com/ghpvc/?username=AchrafMenach&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -185,23 +185,23 @@ Application éducative complète :
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Male Developer Coding GIF">
 
-### 💼 **Ouvert aux Opportunités de Stage en IA & Machine Learning** 💼
+### 💼 **Open for Internship Opportunities in AI & Machine Learning** 💼
 
-**🚀 Prêt à relever de nouveaux défis et à contribuer à des projets innovants ! 🚀**
+**🚀 Ready to take on new challenges and contribute to innovative projects! 🚀**
 
 </div>
 
 ---
 
 <details>
-  <summary><b>🎯 Mes Objectifs 2025</b></summary>
+  <summary><b>🎯 My 2025 Goals</b></summary>
   
-  - 🎓 Décrocher un excellent stage PFE en IA
-  - 🚀 Contribuer à des projets open-source
-  - 📚 Approfondir mes connaissances en Deep Learning
-  - 🌟 Développer des solutions IA innovantes
-  - 💡 Participer à des hackathons et concours
+  - 🎓 Land an excellent AI internship (PFE)
+  - 🚀 Contribute to open-source projects
+  - 📚 Deepen my knowledge in Deep Learning
+  - 🌟 Develop innovative AI solutions
+  - 💡 Participate in hackathons and competitions
   
 </details>
