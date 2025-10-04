@@ -23,7 +23,6 @@ I'm a **third-year engineering student** at the **National School of Artificial 
   
 ## 📋 Check My CV & Portfolio
 
-[![CV](https://img.shields.io/badge/📄_CV-Download-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AchrafMenach/CV/blob/main/ENAchrafMenach.pdf)
 [![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Discover-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://achrafmenach.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/📂_Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AchrafMenach?tab=repositories)
 
